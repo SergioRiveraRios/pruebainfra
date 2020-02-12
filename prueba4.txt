@@ -1,11 +1,3 @@
 prueba4.txt
 
-
-estoy modificando
-aaaaa
-
-estoy modificando de nuevo
-madre maiorig
-
-asdasdasdddd
-mmmmmmmmm
+He sido modificado de nuevo
